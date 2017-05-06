@@ -1,0 +1,22 @@
+{
+  "name": "ucipass-jstutorial",
+  "version": "1.0.0",
+  "description": "simple js tutorial scripts",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ucipass/ucipass-jstutorial.git"
+  },
+  "author": "ucipass",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ucipass/ucipass-jstutorial/issues"
+  },
+  "homepage": "https://github.com/ucipass/ucipass-jstutorial#readme",
+  "devDependencies": {
+    "http-shutdown": "^1.2.0"
+  }
+}
